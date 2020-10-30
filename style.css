@@ -1,0 +1,50 @@
+h1{
+    color: fuchsia;
+}
+a{
+    color: white;
+}
+li{
+    color: lime;
+}
+.header{
+    background: #000000;
+    display: flex;
+    justify-content: space-between;
+}
+.camel{
+    display: flex;
+    justify-content: space-evenly;
+}
+.chameleon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cicada{
+    display: flex;
+    justify-content: space-evenly;
+}
+.panda{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pigeon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+    text-align: center;
+    color: aqua;
+}
+h2{
+    text-align: center;
+    color: yellow;
+}
+body{
+    background: #808080;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
